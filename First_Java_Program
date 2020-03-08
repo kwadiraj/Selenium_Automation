@@ -6,8 +6,7 @@ public class PrintStatement {
 		System.out.print("Hari OM");
 		System.out.print("*****");
 
-	}public PrintStatement() {
-		// TODO Auto-generated constructor stub
+	}
 	}
 
 }
