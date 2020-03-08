@@ -1,0 +1,13 @@
+package One;
+
+public class PrintStatement {
+
+	public static void main(String[] args) {
+		System.out.print("Hari OM");
+		System.out.print("*****");
+
+	}public PrintStatement() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
